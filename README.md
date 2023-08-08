@@ -6,8 +6,12 @@ Playground for experimenting with styling + page layout.
 * HTML
 * CSS
   * `background-image`, `background-size`, `background-repeat`, `height`, `width`
+* CSS Reset
+  * compressed set of CSS rules that *resets* the styling of all HTML elements to a consistent baseline.
 
 ## Resources & Acknowledgments
+* [CSS Reset](https://cssdeck.com/blog/what-is-a-css-reset/)
+
 Images
 * [Steve Johnson](https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1072&q=80)
 * [Mel Poole](https://images.unsplash.com/photo-1588014328208-de6c5973a014?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80)
