@@ -1,0 +1,57 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  margin: 0 auto;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  background-image: url(../media/banner.jpg);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+}
+
+#brushes {
+  background-color: maroon;
+  color: white;
+  font-size: 32px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+#frames {
+  background-color: lightcoral;
+  color: white;
+  font-size: 32px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+#paint {
+  background-color: blue;
+  color: white;
+  font-size: 32px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+  text-align: left;
+}
+
+p strong {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
