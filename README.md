@@ -1,6 +1,5 @@
 # Art's & Crafts
 Online storefront for a art's & crafts store. <br />
-Playground for experimenting with styling + page layout.
 
 ## Features
 * HTML
